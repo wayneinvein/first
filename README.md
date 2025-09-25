@@ -1,4 +1,4 @@
 # first
 first repo for learning
 <br>
--by Sandeep Tiwari
+-by Sandeep Tiwari (student)
